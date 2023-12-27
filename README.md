@@ -1,5 +1,3 @@
-# Validations
-Validations using Custom Annotations
 
 # UserInfo Project
 
