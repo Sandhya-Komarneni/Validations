@@ -26,6 +26,7 @@ The UserInfo project is a Spring Boot application that manages user information,
 
 ## Endpoints
 POST/users: Create a new user. Example request body:
+```
 {
   "name": "Jeff",
   "age": 20,
