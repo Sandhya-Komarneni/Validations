@@ -22,7 +22,7 @@ The UserInfo project is a Spring Boot application that manages user information,
 - `src/main/java/com/example/UserInfo/controller`: Contains the controller class responsible for handling HTTP requests.
 - `src/main/java/com/example/UserInfo/model`: Defines the data model for the application.
 - `src/main/java/com/example/UserInfo/repository`: Contains the repository interface for database operations.
-- `src/main/java/com/example/UserInfo/repository` : Contains the custom annotations and validator classes.
+- `src/main/java/com/example/UserInfo/annotations` : Contains the custom annotations and validator classes.
 
 ## Endpoints
 POST/users: Create a new user. Example request body:
